@@ -5,6 +5,7 @@ You can view the live working code of this repository here: [Demo](http://sumner
 
 ## New Skills that I learned:
 * The `<strike>` and `<sup>` html tags.  Previously I had done this with CSS.
+** Just learned from a code review that `strike` has been deprecated in HTML5 and so we should instead use `del` or `s` for strikethrough.
 * I learned about `<strong>` being similar to `<b>` and `<em>` being similar to `<i>`, but that they are better for the accessibility because screen readers treat them differently.
 
 ## What has been easy?
